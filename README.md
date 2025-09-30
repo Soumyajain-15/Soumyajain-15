@@ -1,4 +1,4 @@
-# Hi there, I'm [Soumya Jain] 👋
+# Hi there, I'm Soumya Jain 👋
 
 Welcome to my GitHub profile! I'm a passionate [Full Stack Web Development] who enjoys building, learning, and collaborating on tech projects.
 
